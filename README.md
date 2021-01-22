@@ -6,7 +6,7 @@
 
 My motivation for this project is to get a deeper understanding of customer buying behavor using starbucks reward app. And how to make imprivement to get more customer to complete offer.
 
-### Project overview
+**### Project overview**
 
 For this project, three datasets were provided that mimics customers' behavior on Starbucks rewards mobile app. Few times a week Starbucks would send out offers to users that use the mobile app. Each offer has its own expiration date and time. 
 Some of the challenges are as follows:-
@@ -29,21 +29,35 @@ transcript.json - records for transactions, offers received, offers viewed, 
 ##### Follow Libraries was used to complete this project
 
   -pandas 
+  
   -numpy 
+  
   -math
+  
   -json
+  
   -datetime
+  
   -matplotlib.pyplot as plt
+  
   -seaborn as sns
+  
   -sns.set()
+  
   -%matplotlib inline
 
   -from sklearn.preprocessing import MinMaxScaler
+  
   -from sklearn.model_selection import train_test_split, GridSearchCV
+  
   -from sklearn.tree import DecisionTreeClassifier
+  
   -from sklearn.naive_bayes import GaussianNB 
+  
   -from sklearn.neighbors import KNeighborsClassifier
+  
   -from sklearn.linear_model import LogisticRegression
+  
   -from sklearn.ensemble import RandomForestRegressor
 
 #### The Process used to complete this project
