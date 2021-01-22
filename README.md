@@ -23,7 +23,7 @@ _**Dataset Review**_
 
 **Data is contained in three files:**
 
-1. **portfolio.json - containing offer ids and metadata about each offer (duration, type, etc.) 
+1. **portfolio.json**- containing offer ids and metadata about each offer (duration, type, etc.) 
   
   - id (string) - offer id
   
@@ -37,7 +37,7 @@ _**Dataset Review**_
   
   -channels (list of strings)  
   
-2. **profile.json - demographic data for each customer
+2. **profile.json** - demographic data for each customer
 
   -age (int) - age of the customer
   
@@ -49,7 +49,7 @@ _**Dataset Review**_
   
   -income (float) - customer's income
 
-3. **transcript.json - records for transactions, offers received, offers viewed, and offers complete 
+3. **transcript.json** - records for transactions, offers received, offers viewed, and offers complete 
 
   -event (str) - record description (ie transaction, offer received, offer viewed, etc.)
   
