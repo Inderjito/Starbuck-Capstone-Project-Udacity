@@ -21,10 +21,11 @@ The business problem that I would like to solve is how to get more customers to 
 
 _**Dataset Review**_
 
-Data is contained in three files:
-portfolio.json - containing offer ids and metadata about each offer (duration, type, etc.) 
-profile.json - demographic data for each customer
-transcript.json - records for transactions, offers received, offers viewed, and offers complete 
+**Data is contained in three files:**
+
+1. portfolio.json - containing offer ids and metadata about each offer (duration, type, etc.) 
+2. profile.json - demographic data for each customer
+3. transcript.json - records for transactions, offers received, offers viewed, and offers complete 
 
 **Following Libraries was used to complete this project**
 
