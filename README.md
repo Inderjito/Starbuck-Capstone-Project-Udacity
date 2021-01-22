@@ -6,7 +6,7 @@
 
 My motivation for this project is to get a deeper understanding of customer buying behavor using starbucks reward app. And how to make imprivement to get more customer to complete offer.
 
-**### Project overview**
+### Project overview
 
 For this project, three datasets were provided that mimics customers' behavior on Starbucks rewards mobile app. Few times a week Starbucks would send out offers to users that use the mobile app. Each offer has its own expiration date and time. 
 Some of the challenges are as follows:-
@@ -15,7 +15,7 @@ Some of the challenges are as follows:-
 2. Not many customers completed the offer
 3. Some users might receive the offer never open it but still complete the requirement.
 
-#### Business Objective
+**Business Objective**
 
 The business problem that I would like to solve is how to get more customers to complete the offers and how we can reward the customer that make purchases during the promotional period for their loyalty.
 
@@ -26,7 +26,7 @@ portfolio.json - containing offer ids and metadata about each offer (duratio
 profile.json - demographic data for each customer
 transcript.json - records for transactions, offers received, offers viewed, and offers complete 
 
-##### Follow Libraries was used to complete this project
+**/Follow Libraries was used to complete this project
 
   -pandas 
   
