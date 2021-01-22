@@ -71,6 +71,8 @@ _**Dataset Review**_
 **Summary of result**
 
 Based on all the findings the conclusion is more customers prefer the BOGO( buy one and get one free). Since Bogo promotion is doing better than discount. It's time to revamp the discount promotion to attract more customers which will help to increase completion rate. The current discount promo is spent $10 within 10 days and get $2 reward. This seem like a lot of pressure for customers becuase 10 day is not a long period and it goes by very fast. 
+
+
 New option for the discount promotion. Example, spend $25 from February 1st to 28th and get $5 in reward for freebee or gift card to spend in the future. By extending the time period, it will give more customers the opportunity to complete the offer and take advantage of the promo. 
 For those loyal customers that spend without taking advantage of the offer. A loyalty tracking system should be in place to reward them in the form of freebee when they met promo requirement unknowly. It's like a sweet surprise to appreciate customer for their loyalty.
 
