@@ -29,70 +29,70 @@ _**Dataset Review**_
   
   - offer_type (string) - type of offer ie BOGO, discount, informational
   
-  -difficulty (int) - minimum required spend to complete an offer
+  - difficulty (int) - minimum required spend to complete an offer
   
-  -reward (int) - reward given for completing an offer
+  - reward (int) - reward given for completing an offer
   
-  -duration (int) - time for offer to be open, in days
+  - duration (int) - time for offer to be open, in days
   
-  -channels (list of strings)  
+  - channels (list of strings)  
   
 2. **profile.json** - demographic data for each customer
 
-  -age (int) - age of the customer
+  - age (int) - age of the customer
   
-  -became_member_on (int) - date when customer created an app account
+  - became_member_on (int) - date when customer created an app account
   
-  -gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
+  - gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
   
-  -id (str) - customer id
+  - id (str) - customer id
   
-  -income (float) - customer's income
+  - income (float) - customer's income
 
 3. **transcript.json** - records for transactions, offers received, offers viewed, and offers complete 
 
-  -event (str) - record description (ie transaction, offer received, offer viewed, etc.)
+  - event (str) - record description (ie transaction, offer received, offer viewed, etc.)
   
-  -person (str) - customer id
+  - person (str) - customer id
   
-  -time (int) - time in hours since start of test. The data begins at time t=0
+  - time (int) - time in hours since start of test. The data begins at time t=0
   
-  -value - (dict of strings) - either an offer id or transaction amount depending on the record
+  - value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 
 **Following Libraries was used to complete this project**
 
-  -pandas 
+  - pandas 
   
-  -numpy 
+  - numpy 
   
-  -math
+  - math
   
-  -json
+  - json
   
-  -datetime
+  - datetime
   
-  -matplotlib.pyplot as plt
+  - matplotlib.pyplot as plt
   
-  -seaborn as sns
+  - seaborn as sns
   
-  -sns.set()
+  - sns.set()
   
-  -%matplotlib inline
+  - %matplotlib inline
 
-  -from sklearn.preprocessing import MinMaxScaler
+  - from sklearn.preprocessing import MinMaxScaler
   
-  -from sklearn.model_selection import train_test_split, GridSearchCV
+  - from sklearn.model_selection import train_test_split, GridSearchCV
   
-  -from sklearn.tree import DecisionTreeClassifier
+  - from sklearn.tree import DecisionTreeClassifier
   
-  -from sklearn.naive_bayes import GaussianNB 
+  - from sklearn.naive_bayes import GaussianNB 
   
-  -from sklearn.neighbors import KNeighborsClassifier
+  - from sklearn.neighbors import KNeighborsClassifier
   
-  -from sklearn.linear_model import LogisticRegression
+  - from sklearn.linear_model import LogisticRegression
   
-  -from sklearn.ensemble import RandomForestRegressor
+  - from sklearn.ensemble import RandomForestRegressor
 
 **The Process used to complete this project**
 
